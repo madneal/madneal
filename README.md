@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Fullstack Engineer
+
+Development & Security
+
+Golang & Python & Java & JavaScript
