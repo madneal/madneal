@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Fullstack Engineer
+:construction_worker: Fullstack Engineer
 
 Development & Security
 
