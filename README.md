@@ -21,3 +21,7 @@ Development & Security
 Golang & Python & Java & JavaScript
 
 Preparing for OSWE
+
+Wechat: mad_coder
+
+Blog: https://madneal.com
