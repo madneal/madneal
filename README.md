@@ -22,6 +22,10 @@ Golang & Python & Java & JavaScript
 
 Preparing for OSWE
 
+Yes, I got OSWE :cool:
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6ce259d-9b10-48b7-9a4a-8ba6dfacac28" data-share-badge-host="https://www.youracclaim.com"></div><script type="text/javascript" async src="//cdn.youracclaim.com/assets/utilities/embed.js"></script>
+
 Wechat: mad_coder
 
 Blog: https://madneal.com
