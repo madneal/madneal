@@ -22,9 +22,9 @@ Golang & Python & Java & JavaScript
 
 Preparing for OSWE
 
-Yes, I got OSWE :cool:
+Yes, I got OSWE :sunglasses::sunglasses:
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d6ce259d-9b10-48b7-9a4a-8ba6dfacac28" data-share-badge-host="https://www.youracclaim.com">
+<img src="https://s1.ax1x.com/2020/09/06/wZaubq.png" alt="wZaubq.png" border="0" width="50" height="50"/>
 
 Wechat: mad_coder
 
