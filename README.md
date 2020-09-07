@@ -22,9 +22,7 @@ Golang & Python & Java & JavaScript
 
 Preparing for OSWE
 
-Yes, I got OSWE :sunglasses::sunglasses:
-
-<img src="https://s1.ax1x.com/2020/09/06/wZaubq.png" alt="wZaubq.png" border="0" width="50" height="50"/>
+Yes, I got OSWE :sunglasses: :sunglasses:
 
 Wechat: mad_coder
 
