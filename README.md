@@ -28,6 +28,8 @@ Development & Security
 
 Golang & Python & Java & JavaScript
 
+Learning Rust
+
 Wechat: mad_coder
 
 Blog: https://madneal.com
