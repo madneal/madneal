@@ -22,7 +22,9 @@ Here are some ideas to get you started:
 <a href="https://www.credly.com/badges/0d913208-747d-4c15-b717-1a00af2edbec/public_url">
   <img src="https://s2.loli.net/2022/02/23/NgRyeXlIZ3wBf9H.png" width="80" height="80">
 </a>
-<a href="https://www.credly.com/badges/0d913208-747d-4c15-b717-1a00af2edbec/public_url"><img src="https://s2.loli.net/2022/02/23/eq5WD713XRIzFpN.png" width="80" height="80"></a>
+<a href="https://www.credly.com/badges/0d913208-747d-4c15-b717-1a00af2edbec/public_url">
+  <img src="https://s2.loli.net/2022/02/23/eq5WD713XRIzFpN.png" width="80" height="80">
+</a>
 
 Development & Security
 
