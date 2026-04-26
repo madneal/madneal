@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 :construction_worker:  Fullstack Engineer
 
-<span>
+<span style="display: flex; gap: 10px;">
 <a href="https://www.credential.net/6d1de1aa-2cee-46fb-a836-8d2a815d0ab8">
   <img src="https://s2.loli.net/2022/04/28/mMs5cpxATnHNiDr.png" width="80" height="80" />
 </a>
