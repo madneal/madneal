@@ -21,7 +21,7 @@ Development & Security
 
 Golang & Python & Java & JavaScript
 
-Learning Rust
+Exploring select opportunities in cybersecurity.
 
 Wechat: mad_coder
 
