@@ -27,6 +27,6 @@ Wechat: mad_coder
 
 Blog: https://madneal.com
 
-Freebuf: https://www.freebuf.com/author/dongne
+Freebuf: https://www.freebuf.com/author/madneal
 
 Anquanke: https://www.anquanke.com/member/141052
